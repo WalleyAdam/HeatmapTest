@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HeatmapV1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="fish_locations">Fish Locations</string>
+    <string name="title_activity_heatmaps">HeatmapsActivity</string>
+
+    <string name="fish_locations_url">https://locationsave-7cded.firebaseio.com/</string>
+    <string-array name="heatmaps_datasets_array">
+        <item>@string/fish_locations</item>
+    </string-array>
+    <string name="button_radius">Radius</string>
+    <string name="button_gradient">Gradient</string>
+    <string name="button_opacity">Opacity</string>
+</resources>
